@@ -1,10 +1,9 @@
-# Capturing-POKEMON-Game
+# Virtual Capturing POKEMON Game
 
-# About the project
-This is our first Python Game of MultiMedia Authoring class.
+This is a virtual game version of capturing POKEMON! Players gain POKEMON’s favorability by choosing an option, thereby players can capture the POKEMON. If the POKEMON get full favorability then they will follow you, it’s meaning you win as you are capturing them successfully. Instead, if the POKEMON leaves the player, you will lose. Continue to play until the player captures POKEMON or POKEMON leaves the player to end the game.
 
-# What we need to do
-We need to complete the homework requirement for creating a Python Game with a repository and branches for a project on Github, and submit it to FOL.
+## Project Roadmap File
+[Project roadmap Google Doc line](https://docs.google.com/document/d/1a47BMRJI3Cawoz7Wysc7LSZFf2aEfz-QJ61uSj44VNg/edit?usp=sharing)
 
 # Chau Lin Lam License
 Chau Lin Lam License
